@@ -51,3 +51,5 @@ uuke.cc###bl_mobile_float
 ||assets.uuke.cc/banners/*.*^
 ||assets.uuke.cc/statics/images/*.*^
 ||thumbsnap.com/i/*.*^
+/banners.*/
+/thumbsnap.*/
