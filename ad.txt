@@ -49,3 +49,5 @@ uuke.cc###bl_mobile_float
 ||euphr-aus.info/admhbl.xyz
 ||onvideo.ssrcdn.com^
 ||assets.uuke.cc/banners/*.*^
+||assets.uuke.cc/statics/images/*.*^
+||thumbsnap.com/i/*.*^
