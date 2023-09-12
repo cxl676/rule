@@ -1,5 +1,6 @@
 !Title: AD for AdGuard
 uuke.cc###adDisabledBtn
+uuke.cc###bl_mobile_float
 ||xfy.bjzankai.com^
 ||xx66kk.live^
 ||1213.wygosq.com^
