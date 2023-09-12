@@ -36,7 +36,7 @@
 ||gtqnazb.sjsdms.cn^
 ||gtqnazb.sjsdms.cn^
 ||wb1.gthouz10x.cn^
-||198.18.12.*^
+198.18.12.*^$network
 ||onvideo.ssrcdn.com^
 ||16945118530006358tcc.hncadh.com^
 ||onvideo.ssrcdn.com^
