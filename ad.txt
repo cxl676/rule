@@ -36,3 +36,4 @@
 ||gtqnazb.sjsdms.cn^
 ||gtqnazb.sjsdms.cn^
 ||wb1.gthouz10x.cn^
+||198.18.12.*^
