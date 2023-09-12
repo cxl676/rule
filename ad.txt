@@ -48,3 +48,4 @@ uuke.cc###bl_mobile_float
 ||16945118530006358tcc.hncadh.com^
 ||euphr-aus.info/admhbl.xyz
 ||onvideo.ssrcdn.com^
+||assets.uuke.cc/banners/*.*^
